@@ -1,0 +1,34 @@
+.container1 {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+}
+
+.container2 {
+    border: 0.5px solid blue;
+    display: flex;
+    justify-content: center;
+
+}
+
+.userprofileimage{
+   display: flex;
+   justify-content: center;
+}
+
+.userpasswordimage{
+    display: flex;
+   justify-content: center;
+}
+
+.secmain{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.rememberme{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
